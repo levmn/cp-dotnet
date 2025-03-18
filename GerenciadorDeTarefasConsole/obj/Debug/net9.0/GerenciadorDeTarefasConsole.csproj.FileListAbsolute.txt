@@ -10,6 +10,7 @@
 /Users/levimagni/levi.magni/coding/fiap/cp-dotnet/GerenciadorDeTarefasConsole/obj/Debug/net9.0/GerenciadorDeTarefasConsole.AssemblyInfoInputs.cache
 /Users/levimagni/levi.magni/coding/fiap/cp-dotnet/GerenciadorDeTarefasConsole/obj/Debug/net9.0/GerenciadorDeTarefasConsole.AssemblyInfo.cs
 /Users/levimagni/levi.magni/coding/fiap/cp-dotnet/GerenciadorDeTarefasConsole/obj/Debug/net9.0/GerenciadorDeTarefasConsole.csproj.CoreCompileInputs.cache
+/Users/levimagni/levi.magni/coding/fiap/cp-dotnet/GerenciadorDeTarefasConsole/obj/Debug/net9.0/GerenciadorDeTarefasConsole.sourcelink.json
 /Users/levimagni/levi.magni/coding/fiap/cp-dotnet/GerenciadorDeTarefasConsole/obj/Debug/net9.0/Gerencia.3D06D3A5.Up2Date
 /Users/levimagni/levi.magni/coding/fiap/cp-dotnet/GerenciadorDeTarefasConsole/obj/Debug/net9.0/GerenciadorDeTarefasConsole.dll
 /Users/levimagni/levi.magni/coding/fiap/cp-dotnet/GerenciadorDeTarefasConsole/obj/Debug/net9.0/refint/GerenciadorDeTarefasConsole.dll
